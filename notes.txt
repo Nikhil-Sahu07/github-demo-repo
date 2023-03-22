@@ -1,0 +1,2 @@
+first take the data from the user for 3x3 array
+second display the same on to the screen
