@@ -16,6 +16,18 @@ int main()
                     scanf("%d",&arr[i][j]);
                 }
         }
-        printf("Your data has been submitted successfully..!");
+        printf("Your data has been submitted successfully..!\n");
+        
+        printf("Here's your 3x3 array---");
+        
+        for (i=0; i<3; i++)
+            {
+                printf("\n");
+                for(j=0; j<3; j++)
+                    {
+                        printf("%d ",arr[i][j]);
+                    }
+            }
+    
         
     }
