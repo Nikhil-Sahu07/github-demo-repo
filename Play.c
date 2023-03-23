@@ -28,6 +28,13 @@ int main()
                         printf("%d ",arr[i][j]);
                     }
             }
+
+        printf("\nHere's your elements in the daigonal---\n");
+
+        for (i=0; i<3; i++)
+            {
+                printf("%d\n",arr[i][i]);
+            }
     
         
     }
