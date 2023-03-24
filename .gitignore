@@ -1,0 +1,4 @@
+extraIgnore
+*.log
+hello.exe
+IgnoreMee/
