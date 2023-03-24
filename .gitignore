@@ -1,4 +1,7 @@
 extraIgnore
-*.log
+*.log 
+#  Ignores all files with  this extension 
+# will also ignore with other extension .exe .py .txt etc.
 hello.exe
 IgnoreMee/
+# directory ignore will have to add '/' in the end to tell its ignoring..
