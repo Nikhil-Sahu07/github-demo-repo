@@ -1,8 +1,0 @@
-I've successfully completed my program made on completed
-
-It basically does three things---
-                                1.) Take no to be display on array
-
-                                2.) Display the 3d array onto the screen
-                                
-                                3.) Display the elements on the diagonals
